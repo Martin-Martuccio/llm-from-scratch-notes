@@ -1,0 +1,2 @@
+# What are Large Langage models?
+Large Langage models (also know LLMs) are deep neural network models that have been developed over the past years and they changed the Natural Language Processing (NLP) field.
